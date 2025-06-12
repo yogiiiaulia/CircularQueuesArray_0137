@@ -145,4 +145,10 @@ int main()
                     break;
                 }
 
+                case '2':
+                {
+                    q.remove();
+                    break;
+                }
+
                 
