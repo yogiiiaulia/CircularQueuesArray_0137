@@ -157,4 +157,8 @@ int main()
                     break;
                 }
 
+               case '4':
+                {
+                    return 0;
+                }
                 
