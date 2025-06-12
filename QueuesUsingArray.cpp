@@ -7,6 +7,6 @@ class Queues {
     int FRONT, REAR,;
     int queues_array[5];
 
-    
+   
 
 }
