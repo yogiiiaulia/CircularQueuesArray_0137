@@ -21,11 +21,11 @@
  * @author Profil
  * - nama :{Yogi aulia ardiano}
  * - nim : {20240140137}
- * - kelas : {C}
+ * - kelas : {E}
  * 
  * @brief
  * @version 1.0
- * @date 2025-6-24
+ * @date 2026-6-08
  * 
  * @copyright {yogi.aulia.ft@mail.umy.ac.id} 2025
  * 
